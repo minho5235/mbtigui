@@ -32,5 +32,5 @@
 
 ### 1. 레포지토리 클론 (Clone)
 ```bash
-git clone [https://github.com/본인아이디/MBTI-Test-Python.git](https://github.com/본인아이디/MBTI-Test-Python.git)
+git clone [https://github.com/minho5235/MBTI-Test-Python.git](https://github.com/minho5235/MBTI-Test-Python.git)
 cd MBTI-Test-Python
